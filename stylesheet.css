@@ -1,0 +1,149 @@
+body.index{
+	background-image: url("images/familyIndexPage.png");
+	height: 720;
+}
+@media screen and (min-width: 80rem) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+body.blood{
+	background-image: url("images/blood.png");
+	height: 720;
+}
+body.mom{
+	background-image: url("images/mom.png");
+	height: 720;
+}
+body.dad{
+	background-image: url("images/dad.png");
+	height: 720;
+}
+body.twin{
+	background-image: url("images/twin.png");
+	height: 720;
+}
+body.sister{
+	background-image: url("images/sister.png");
+	height: 720;
+}
+body.found-family{
+	background-image: url("images/FamilyFound.png");
+	height: 720;
+}
+body.eli{
+	background-image: url("images/eli.png");
+	height: 720;
+}
+body.freya{
+	background-image: url("images/freya.png");
+	height: 720;
+}
+body.roommate{
+	background-image: url("images/roommate.png");
+	height: 720;
+}
+body.devynn{
+	background-image: url("images/devynn.png");
+	height: 720;
+}
+body.max{
+	background-image: url("images/max.png");
+	height: 720;
+}
+body.clarissa{
+	background-image: url("images/clarissa.png");
+	height: 720;
+}
+body.jamie{
+	background-image: url("images/jamie.png");
+	height: 720;
+}
+body.tyler{
+	background-image: url("images/tyler.png");
+	height: 720;
+}
+body.audrey{
+	background-image: url("images/audrey.png");
+	height: 720;
+}
+body.zach{
+	background-image: url("images/zach.png");
+	height: 720;
+}
+body.kai{
+	background-image: url("images/kai.png");
+	height: 720;
+}
+body.nat{
+	background-image: url("images/nat.png");
+	height: 720;
+}
+body.winter{
+	background-image: url("images/winter.png");
+	height: 720;
+}
+body.anna{
+	background-image: url("images/anna.png");
+	height: 720;
+}
+body.dayton{
+	background-image: url("images/dayton.png");
+	height: 720;
+}
+body.sarah{
+	background-image: url("images/sarah.png");
+	height: 720;
+}
+body.bella{
+	background-image: url("images/bella.png");
+	height: 720;
+}
+p{
+	background-color: #e5c1f5;
+	height: 50px;
+	text-align: center;
+	color: #474547;
+	width: 75%;
+	margin-top: 8%;
+	margin-left: 15%;
+	line-height: 50px;
+	border: 2px solid #610261;
+	border-radius: 15px 15px 15px 15px;
+	position: left;
+}
+p.poem{
+	background-color: #e5c1f5;
+	text-align: center;
+	height: 650;
+	color: #474547;
+	width: 30%;
+	border: 2px solid #610261;
+	border-radius: 15px 15px 15px 15px;
+	line-height: .5em;
+	float: right;
+	margin-top: 20px;
+	margin-right: 140px;
+	margin-left: 10px;
+}
+button{
+	color: white;
+	border: 2px solid #610261;
+	border-radius: 15px 15px 15px 15px;
+	background-color: #8ac29a;
+	height: 30px;
+	width: 50px;
+	margin-left: 10px;
+}
+img.guy{
+	height: 40%;
+	width: 40%;
+	margin-top: 80px;
+	margin-left: 50px;
+	position: right;
+	padding-right: 10px;
+	margin-right: 2px;
+}
+button:hover{
+	background-color: #479453;
+}

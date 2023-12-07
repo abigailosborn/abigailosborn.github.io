@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Blood Family</title>
+		<link href="stylesheet.css" type="text/css" rel="stylesheet">
+	</head>
+	<body class="index">
+		<p id="text">Our first stop is the thoughts on family related by blood. <button onclick= "action1()">Next</button></p>
+		<image src ="images/lilGuy.png" class= "guy" id= "lilguy">
+		<script>
+			function action1(){
+				window.location.href = "https://www.britannica.com/animal/frog";
+			}
+		</script>
+	</body>
+</html>
