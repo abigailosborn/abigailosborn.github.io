@@ -64,3 +64,33 @@ img.poster{
 	border-radius: 25px 25px 25px 25px;
 	margin-top: 40px;
 }
+p.faqs{
+	text-align: center;
+	color: white;
+	background-color: #330033;
+	border-radius: 15px 15px 15px 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 10px;
+	margin-right:10px;
+	width: 280px;
+	height: 30px;
+}
+p.answers{
+	text-align: center;
+	color: #AEACAE;
+	background-color: #99489C;
+	border-radius: 15px 15px 15px 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 10px;
+	margin-right:10px;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 280px;
+	height: 60px;
+}
